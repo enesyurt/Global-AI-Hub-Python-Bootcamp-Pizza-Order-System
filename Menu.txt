@@ -1,7 +1,7 @@
 Please Choose a Pizza Base:
 1: Classic
 2: Margherita
-3: TurkPizza
+3: TurkishPizza
 4: PlainPizza
 
 and sauce of your choice:
